@@ -18,7 +18,7 @@ Nettoyage, sélection et préparation des variables avant analyse.
 - Interprétation des résultats et recommandations stratégiques
 
 ## Outils
-Python (Pandas, Scikit-learn)
+Python (Pandas, ACP, K-means)
 
 ## Livrables
 - Analyses statistiques et graphiques
